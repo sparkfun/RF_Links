@@ -9,21 +9,24 @@ RF Links
 These wireless transmitters and receivers easily fit into a breadboard and work well with microcontrollers to create
 a very simple wireless data link. 
 
+The most up to date VirtualWire library can be found [here](http://www.airspayce.com/mikem/arduino/VirtualWire/).
 
 Repository Contents
 -------------------
-* **/Libraries** - Arduino libraries and example sketches
+* **/Firmware** - Arduino libraries and example sketches
 
 Product Versions
 ----------------
-* [WRL-10534](https://www.sparkfun.com/products/10534)- RF Link Transmitter - 434MHz
-* [WRL-10532](https://www.sparkfun.com/products/10532)- RF Link Receiver - 434MHz
 * [WRL-10535](https://www.sparkfun.com/products/10535)- RF Link Transmitter - 315MHz
 * [WRL-10533](https://www.sparkfun.com/products/10533)- RF Link Receiver - 315MHz
 
+* [WRL-10534](https://www.sparkfun.com/products/10534)- RF Link Transmitter - 434MHz
+* [WRL-10532](https://www.sparkfun.com/products/10532)- RF Link Receiver - 434MHz
+
 License Information
 -------------------
+All other code is open source so please feel free to do anything you want with it;
+you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
 
 Distributed as-is; no warranty is given.
 
-The entire VirtualWire library can be found [here](http://www.airspayce.com/mikem/arduino/VirtualWire/). 
