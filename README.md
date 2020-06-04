@@ -1,3 +1,4 @@
+
 RF Links
 ==============
 
@@ -13,7 +14,7 @@ RF Links
 </table>
 
 These wireless transmitters and receivers easily fit into a breadboard and work well with microcontrollers to create
-a very simple wireless data link. The most up to date VirtualWire library can be found [here](http://www.airspayce.com/mikem/arduino/VirtualWire/).
+a very simple wireless data link. The original legacy VirtualWire library that is used in this GitHub repo can be found [here](http://www.airspayce.com/mikem/arduino/VirtualWire/). However, we recommend using the latest [RadioHead library](http://www.airspayce.com/mikem/arduino/RadioHead/), which supports more architectures.
 
 Repository Contents
 -------------------
